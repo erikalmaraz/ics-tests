@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Test//Wander//EN
+BEGIN:VEVENT
+UID:reservation-2@wander.com
+DTSTAMP:20240927T165219Z
+DTSTART:20241026T160000Z
+DTEND:20241029T100000Z
+SUMMARY:Reservation at Some place in Falls Reservation
+DESCRIPTION:Reservation for Tina Pournazarian (tpournazarian@gmail.com)
+STATUS:Confirmed
+LOCATION:Some place in Falls Reservation
+END:VEVENT
+END:VCALENDAR
+
+
