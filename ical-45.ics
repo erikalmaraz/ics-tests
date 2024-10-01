@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:cm0vez45p2f8k4fbvaraokbdr
+SEQUENCE:1
+DTSTAMP:20241001T055604Z
+DTSTART;TZID=America/Los_Angeles:20241201T160000
+DTEND;TZID=America/Los_Angeles:20241204T100000
+SUMMARY:Reservation cm0vez45p2f8k4fbvaraokbdr
+LOCATION:35800 California 1\, Gualala\, California 95445
+DESCRIPTION:Booking #cm0vez45p2f8k4fbvaraokbdr
+ORGANIZER;CN="Wander":mailto:hello@wander.com
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
