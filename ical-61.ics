@@ -1,0 +1,20 @@
+BEGIN:VEVENT
+	DTEND: 20250327
+	DTSTART: 20250323
+	UID: abcdef123456-7890abcdef1234567890mnopqr@airbnb.com
+	DESCRIPTION: 
+		Reservation URL: https://www.airbnb.com/hosting/reservations/details/RES12365478
+		Phone Number (Last 4 Digits): 7788
+	SUMMARY: Reserved
+END:VEVENT
+
+BEGIN:VEVENT
+	DTEND: 20250402
+	DTSTART: 20250328
+	UID: fedcba654321-abcdef1234567890qrstuvwx@airbnb.com
+	DESCRIPTION: 
+		Reservation URL: https://www.airbnb.com/hosting/reservations/details/RES98732154
+		Phone Number (Last 4 Digits): 9900
+	SUMMARY: Reserved
+END:VEVENT
+
