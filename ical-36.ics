@@ -6,8 +6,8 @@ UID:20250722T000000Z-001@yourdomain.com
 DTSTAMP:20240427T120000Z
 DTSTART;VALUE=DATE:20250604
 DTEND;VALUE=DATE:20250607
-SUMMARY:Reservation from Jul 22, 2025 to Jul 25, 2025
-DESCRIPTION:This is a reservation starting on July 22, 2025, and ending on July 25, 2025.
+SUMMARY:Reservation from Jun 4, 2024 to Jun 7, 2024
+DESCRIPTION:Changing to between 4th June and 7th June 2024.
 END:VEVENT
 END:VCALENDAR
 
