@@ -9,5 +9,13 @@ DTEND;VALUE=DATE:20250730
 SUMMARY:Reservation from Jul 26, 2025 to Jul 29, 2025
 DESCRIPTION:This is a reservation starting on July 26, 2025, and ending on July 29, 2025.
 END:VEVENT
+BEGIN:VEVENT
+UID:20250726skjdnjdhnjhsT002212342Z-001@yourdomain.com
+DTSTAMP:20240427T120000Z
+DTSTART;VALUE=DATE:20250727
+DTEND;VALUE=DATE:20250730
+SUMMARY:Reservation from Jul 26, 2025 to Jul 29, 2025
+DESCRIPTION:This is a reservation starting on July 26, 2025, and ending on July 29, 2025.
+END:VEVENT
 END:VCALENDAR
 
