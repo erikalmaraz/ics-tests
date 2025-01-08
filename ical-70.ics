@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Your Organization//iCal Generator
+PRODID:-//Your Organization//iCal Generator whatever
 BEGIN:VEVENT
 UID:20250726T002212342Z-001223232312000@yourdomain.com
 DTSTAMP:20240427T120000Z
