@@ -9,3 +9,12 @@ DTEND;VALUE=DATE:20250416
 SUMMARY:Reservation from Apr 12, 2025 to Apr 16, 2025
 DESCRIPTION:This is a reservation starting on Apr 12, 2025, and ending on Apr 16, 2025.
 END:VEVENT
+
+BEGIN:VEVENT
+UID:20250726skjdnjdhnjhsT002212342Z-001@yourdomain.com
+DTSTAMP:20240427T120000Z
+DTSTART;VALUE=DATE:20250521
+DTEND;VALUE=DATE:20250530
+SUMMARY:Reservation from MAY 21, 2025 to MAY 30, 2025
+DESCRIPTION:This is a reservation starting on May 21, 2025, and ending on May 30, 2025.
+END:VEVENT
